@@ -1,11 +1,26 @@
 {
-	"font_face": "Ricty",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"font_face": "Ricty Discord",
 	"font_size": 13,
+	"rulers": [80,120],
+	"translate_tabs_to_spaces": true,
+	"highlight_line": true,
+	"draw_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+
+    //
+	// UI
+	//
+	"theme": "Soda Light 3.sublime-theme",
+	"highlight_modified_tabs": true,
+	"bold_folder_labes": true,
+
+	//
+	// Application Behavior Settings
+	//
 	"ignored_packages":
 	[
-		"",
-		"IMESupport",
-		"3024 Color Scheme",
-		"ConvertToUTF8"
+		""
 	]
 }
